@@ -1,4 +1,4 @@
-package cn.yunlingfly.hikaricp.bean;
+package hikaricp.bean;
 
 public class Person {
     private Integer id;

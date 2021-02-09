@@ -1,4 +1,4 @@
-package cn.yunlingfly.hikaricp.service;
+package hikaricp.service;
 
 import cn.yunlingfly.hikaricp.bean.Person;
 

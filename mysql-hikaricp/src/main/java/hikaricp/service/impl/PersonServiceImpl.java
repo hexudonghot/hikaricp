@@ -1,10 +1,9 @@
-package cn.yunlingfly.hikaricp.service.impl;
+package hikaricp.service.impl;
 
 import cn.yunlingfly.hikaricp.bean.Person;
 import cn.yunlingfly.hikaricp.mapper.IPersonMapper;
 import cn.yunlingfly.hikaricp.service.IPersonService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

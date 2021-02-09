@@ -1,4 +1,4 @@
-package cn.yunlingfly.hikaricp.mapper;
+package hikaricp.mapper;
 
 import cn.yunlingfly.hikaricp.bean.Person;
 import org.apache.ibatis.annotations.*;

@@ -1,4 +1,4 @@
-package cn.yunlingfly.hikaricp.aspect;
+package hikaricp.aspect;
 
 import com.alibaba.fastjson.JSONObject;
 

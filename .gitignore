@@ -1,3 +1,6 @@
 # Project exclude paths
 /target/
 /.idea/
+/mysql-hikaricp/mysql-hikaricp.iml
+/mongo/mongo.iml
+/es/es.iml
